@@ -1,4 +1,4 @@
 #! /bin/bash
 
-echo Testing TunTunLin g
+echo Testing TunTunLin jenkin automation server
  
